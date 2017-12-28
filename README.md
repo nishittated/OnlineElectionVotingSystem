@@ -4,7 +4,7 @@ Online Election Voting System is a project made in Advance Java using concepts s
 
 Download from here : https://github.com/nishittated/OnlineElectionVotingSystem
 
-# Developed By: Nishit Tated, Tithi Patel, Nisarg Raval, Shrushti Patel, Niyati Rupareliya, Karan Solanki
+# Developed By: Nishit Tated, Tithi Patel, Nisarg Raval, Shrushti Patel, Niyati Rupareliya & Karan Solanki
 
 # Support or Contact
 * Instagram: https://www.instagram.com/nishit.tated/
