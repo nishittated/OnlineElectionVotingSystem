@@ -4,8 +4,19 @@ Online Election Voting System is a project made in Advance Java using concepts s
 
 Download from here : https://github.com/nishittated/OnlineElectionVotingSystem
 
+# IDE Used: Eclipse Neon & RAD
+# Local Server: Apache Tomcat 9.0
+# Database: IBM DB2 or MySql
+
 # Developed By: Nishit Tated, Tithi Patel, Nisarg Raval, Shrushti Patel, Niyati Rupareliya & Karan Solanki
 
-# Support or Contact
-* Instagram: https://www.instagram.com/nishit.tated/
-* Facebook : https://www.facebook.com/nishit.tated
+# Find this project useful? ❤️
+* Support it by clicking the ⭐️ button on the upper right of this page. ✌️
+
+# Support or Contact - Let's become friend
+* <a href="https://www.instagram.com/nishit.tated/">Instagram</a>
+* <a href="https://www.github.com/nishittated/">Github</a>
+* <a href="https://www.facebook.com/nishit.tated/">Facebook</a>
+
+# Contributing to OnlineElectionVotingSystem
+* All pull requests are welcome, make sure to follow the <a href=https://github.com/nishittated/OnlineElectionVotingSystem/blob/master/CONTRIBUTING.md">contribution guidelines </a>when you submit pull request.
