@@ -6,7 +6,7 @@ Download from here : https://github.com/nishittated/OnlineElectionVotingSystem
 
 # IDE Used: Eclipse Neon & RAD
 # Local Server: Apache Tomcat 9.0
-# Database: IBM DB2 or MySql
+# Database: IBM DB2 or MySQL
 
 # Developed By: Nishit Tated, Tithi Patel, Nisarg Raval, Shrushti Patel, Niyati Rupareliya & Karan Solanki
 
@@ -21,5 +21,3 @@ Download from here : https://github.com/nishittated/OnlineElectionVotingSystem
 # Contributing to OnlineElectionVotingSystem
 * All pull requests are welcome, make sure to follow the <a href=https://github.com/nishittated/OnlineElectionVotingSystem/
 blob/master/CONTRIBUTING.md">contribution guidelines </a>when you submit pull request.
-
-* All pull requests are welcome, make sure to follow the <a href="https://github.com/nishittated/Sec-Tools/blob/master/CONTRIBUTING.MD">contribution guidelines </a>when you submit pull request.
