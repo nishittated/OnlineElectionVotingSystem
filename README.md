@@ -19,5 +19,5 @@ Download from here : https://github.com/nishittated/OnlineElectionVotingSystem
 * <a href="https://www.facebook.com/nishit.tated/">Facebook</a>
 
 # Contributing to OnlineElectionVotingSystem
-* All pull requests are welcome, make sure to follow the <a href=https://github.com/nishittated/Online
+* All pull requests are welcome, make sure to follow the <a href="https://github.com/nishittated/Online
 ElectionVotingSystem/blob/master/CONTRIBUTING.md">contribution guidelines </a>when you submit pull request.
