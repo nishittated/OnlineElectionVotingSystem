@@ -49,6 +49,10 @@ public class OtpServlet extends HttpServlet {
 				e.printStackTrace();
 			}
 		}
+		else
+		{
+			page="error.jsp?msg=otp";
+		}
 		response.sendRedirect(page);
 	}
 }
