@@ -5,9 +5,7 @@
 <%@page import="java.io.PrintWriter"%>
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
     pageEncoding="ISO-8859-1"%>
-<%@ page import="java.sql.*" %>
-<%@ page import="java.util.*" %>
-<%@ page import="dao.Dao" %>
+  	<%@page import="model.Model, dao.Dao, java.sql.*, java.util.*" %>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
@@ -40,8 +38,7 @@ ArrayList<ArrayList> list = new ArrayList<ArrayList>();
 		list.get(i).add(party);
 		list.get(i).add(vote);	
 		i++;
-	}
-	
+	}	
 	HttpSession session1 = request.getSession();
 	session1.setAttribute("nlist",list);
 }
@@ -50,12 +47,6 @@ catch(Exception e)
 	e.printStackTrace();
 }
 
-
-
-
-
-
-//ArrayList<ArrayList> a= (ArrayList<ArrayList>)session.getAttribute("nlist");
 ArrayList<ArrayList> a = (ArrayList<ArrayList>)session.getAttribute("nlist");
 
 for(int j=0;j<a.size();j++){
@@ -70,12 +61,10 @@ for(int j=0;j<a.size();j++){
 	<td>
 	 	<b>Number of Vote:<input type="text" value="<%= a.get(j).get(1)%>"></b>
 	</td>
-	
-	
+		
 	</tr>
 	<%
 }
-
 String sql2 = "SELECT MAX(vote) FROM candidate";
 ResultSet rs = d.validate1(sql2);
 while(rs.next())
@@ -91,8 +80,6 @@ String votenum = session.getAttribute("l").toString();
 //String votenum = session.getAttribute("pname").toString();
 %>
 <p><font color="red"><b>"Winner is party with number of votes <%= votenum %> "</b></font></p>
-
-
 
 </table>
 <br><br><br>
