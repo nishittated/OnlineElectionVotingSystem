@@ -46,6 +46,11 @@ try
 		alert("Please enter same password");
 		window.location.href="signin.jsp";
 	<%}
+	else if (ms.equals("otp"))
+	{%>
+		alert("Otp Not Matched. Please enter correct one.");
+		window.location.href="otp.jsp";
+	<%}
 	
 }
 catch(Exception e)
