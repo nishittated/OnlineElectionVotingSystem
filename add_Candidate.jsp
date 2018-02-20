@@ -1,5 +1,5 @@
 <!-- Copyright (c) Nishit Tated. All Rights Reserved.
- *  Project name: Online Election Voting System
+ *  Project name: Online Election Voting System  
  * This project is licensed under the MIT License, see LICENSE.
  */ -->
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
