@@ -6,14 +6,14 @@
     pageEncoding="ISO-8859-1"%>
    	<%@page import="model.Model, dao.Dao, java.sql.*" %>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-<html>
+<html> 
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Delete Event</title>
 <script type="text/javascript" src="js/country.js"></script>
 <link href="css/forms.css" rel='stylesheet' type='text/css' />
 </head>
-<body>
+<body> 
 <jsp:include page="header_admin.jsp"></jsp:include>
 <br><br><br><br><br><br>
 <center><a href="Add_UpcommingEvent.jsp"><button>Add</button></a>
