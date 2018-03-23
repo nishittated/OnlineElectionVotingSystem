@@ -63,7 +63,7 @@ public class LoginServlet extends HttpServlet {
 					}
 				if(rs.next())
 				{
-					//page="profile.jps?msg=success";					
+					//page="profile.jsp?msg=success";					
 					String fn = rs.getString(1);
 					HttpSession session = request.getSession();
 					session.setAttribute("email",email);
