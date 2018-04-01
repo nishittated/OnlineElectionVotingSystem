@@ -1,6 +1,6 @@
 <!-- Copyright (c) Nishit Tated. All Rights Reserved.
  *  Project name: Online Election Voting System
- * This project is licensed under the MIT License, see LICENSE.
+ * This project is licensed under the MIT License, see LICENSE. 
  */ -->
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
     pageEncoding="ISO-8859-1"%>
@@ -19,7 +19,7 @@
 response.setHeader("Pragma","no-cache" );
 response.setHeader("Cache-control","no-store" );
 response.setHeader("Expires","0" );
-response.setHeader("Expires","1" );
+response.setHeader("Expires","1" ); 
 %>	
 </head>
 <body>
