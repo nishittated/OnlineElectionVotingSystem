@@ -31,7 +31,7 @@ function regvalid()
 							{
 								if(electionc(election))
 								{
-									if(pwd(passid,8,20))  
+									if(pwd(passid,8,20))   
 									{   
 										if(confirm_pwd(cpass,pass, 8, 20))	
 										{
