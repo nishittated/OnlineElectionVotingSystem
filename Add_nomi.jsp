@@ -33,7 +33,7 @@
     <li>
     	<input type="submit" value="Add" />
        <input type="reset" value="Clear" />
-    </li>
+    </li> 
 </ul>
 </center>
 </form>
