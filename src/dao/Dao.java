@@ -14,8 +14,9 @@ public class Dao {
 		try 
 		{
 			Class.forName("com.ibm.db2.jcc.DB2Driver");
-		    con = DriverManager.getConnection("jdbc:db2://localhost:50000/OEVS", "admin", "lappipassword");
-		}
+				//database_name --> OEVS
+		    con = DriverManager.getConnection("jdbc:db2://localhost:50000/database_name", "laptop_username", "lappipassword");
+		}		
 		catch (Exception e)
 		{
 			e.printStackTrace();
