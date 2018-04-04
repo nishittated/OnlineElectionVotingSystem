@@ -3,7 +3,7 @@
  * This project is licensed under the MIT License, see LICENSE.
  */ 
 package model;
-
+  
 import java.sql.*;
 import dao.Dao;
 public class Model {
