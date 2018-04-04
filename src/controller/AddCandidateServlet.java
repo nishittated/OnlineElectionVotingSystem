@@ -8,7 +8,7 @@ import java.io.IOException;
 import javax.servlet.ServletException;
 import dao.Dao;
 import model.Model;
-
+ 
 import javax.servlet.http.*;
 
 public class AddCandidateServlet extends HttpServlet {
