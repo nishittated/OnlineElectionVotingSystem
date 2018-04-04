@@ -19,7 +19,7 @@ import javax.mail.internet.MimeMessage;
 		public boolean sendMail(String to,String otp) throws MessagingException 
 		{
 			String host="smtp.gmail.com";
-			String username="";//emailid
+			String username="";//emailid 
 			String password="";//emailid password
 			String from=" ";// email from which u have to send
 			String subject="One Time Password";
@@ -28,7 +28,7 @@ import javax.mail.internet.MimeMessage;
 			boolean sessionDebug=false;
 			
 			Properties props=System.getProperties();
-			props.put("mail.host",host);
+			props.put("mail.host",host);  
 			props.put("mail.transport.protocol","smtp");
 			props.put("mail.smtp.starttls.enable","true");
 			props.put("mail.smtp.auth", "true");
@@ -37,7 +37,7 @@ import javax.mail.internet.MimeMessage;
 			props.put("mail.smtp.socketFactory.class", "javax.net.ssl.SSLSocketFactory");
 			props.put("mail.smtp.socketFactory.fallback", "false");
 			props.put("mail.smtp.host", "smtp.gmail.com");
-			props.put("mail.smtp.port", "25"); 
+			props.put("mail.smtp.port", "25");  
 			
 			Session mailSession=Session.getDefaultInstance(props,null);
 			mailSession.setDebug(sessionDebug);
