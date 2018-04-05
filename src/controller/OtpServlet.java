@@ -41,7 +41,7 @@ public class OtpServlet extends HttpServlet {
 				boolean status = pm.sendMail1(emailid,password,link);
 				if(status)
 				{
-					page="login.jsp?msg=PasswordSendToMail"; 
+					page="error.jsp?msg=PasswordSendToMail"; 
 				}
 			}
 			catch (Exception e)
