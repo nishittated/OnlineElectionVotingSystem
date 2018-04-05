@@ -51,7 +51,11 @@ try
 		alert("Otp Not Matched. Please enter correct one.");
 		window.location.href="otp.jsp";
 	<%}
-	
+	else if (ms.equals("PasswordSendToMail"))
+	{%>
+		alert("Your Website Password has sent to your mail id.");
+		window.location.href="login.jsp";
+	<%}
 }
 catch(Exception e)
 {
