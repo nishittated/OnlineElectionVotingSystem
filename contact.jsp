@@ -9,7 +9,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Contact Us</title>
-<link href="css/forms.css" rel="stylesheet" type="text/css">
+<link href="css/forms.css" rel="stylesheet" type="text/css"> 
 </head>
 
 <body>
