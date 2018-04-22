@@ -7,7 +7,7 @@ package controller;
 import java.io.IOException;
 import java.sql.*;
 import dao.Dao;
-import model.Model;
+import model.Model; 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
