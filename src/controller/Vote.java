@@ -2,7 +2,7 @@
  * Project name: Online Election Voting System
  * This project is licensed under the MIT License, see LICENSE.
  */ 
-package controller;
+package controller; 
 
 import java.io.IOException;
 import javax.servlet.ServletException;
