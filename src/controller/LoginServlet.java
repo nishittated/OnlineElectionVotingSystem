@@ -30,7 +30,7 @@ public class LoginServlet extends HttpServlet {
 		String sql1 = "select * from register where email='"+email+"'";
 		
 		if(email.equals("")||election.equals("") ||pass.equals("")) 
-		{
+		 
 			page="error.jsp?msg=abc";  //URL Rewriting 
 		}
 		else
