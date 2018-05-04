@@ -38,7 +38,7 @@
     </li>
     <li><label>Age <span class="required">*</span></label>
     	<input type="text" name="age" class="field-divided" placeholder="Age" />
-    	
+     	
     </li>
     
     <li><label>Contact <span class="required">*</span></label>
