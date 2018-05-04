@@ -38,7 +38,7 @@ if(session.getAttribute("email")!=null)
 </tr>
 
 <%
-while(rs.next())
+while(rs.next()) 
 {
   %>
 	<tr>
