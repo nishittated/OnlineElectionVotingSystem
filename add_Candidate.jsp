@@ -30,7 +30,7 @@
 
     <li><label>Party Name <span class="required">*</span></label>
     	<input type="text" name="party" class="field-divided" placeholder="Party Name" />
-    	
+    	 
     </li>
     <li><label>Name <span class="required">*</span></label>
     	<input type="text" name="fname" class="field-divided" placeholder="Name" />
