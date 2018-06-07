@@ -36,7 +36,7 @@ if(session.getAttribute("email")!=null)
 <th>Party Name</th>
 </tr>
 
-<%
+<% 
 while(rs.next())
 {
   %>
