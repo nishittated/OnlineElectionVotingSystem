@@ -37,7 +37,7 @@ if(session.getAttribute("email")!=null)
 <th>Speaker Name</th>
 <th>Subject</th>
 <th>City</th>
-<th>Country</th>
+<th>Country</th> 
 <th>State</th>
 
 </tr>
