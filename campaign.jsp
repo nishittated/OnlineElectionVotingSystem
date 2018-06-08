@@ -12,7 +12,7 @@
 </head>
 <body>
 <jsp:include page="header.jsp"></jsp:include>
-<!-- banner1 -->
+<!-- banner1 --> 
 	<div class="banner1">
 		<div class="container">
 			
