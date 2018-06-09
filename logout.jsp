@@ -3,5 +3,3 @@
  * This project is licensed under the MIT License, see LICENSE.
  */ -->
 <jsp:forward page="LogoutServlet"></jsp:forward>
-
- 
