@@ -2,7 +2,7 @@
  *  Project name: Online Election Voting System
  * This project is licensed under the MIT License, see LICENSE.
  */
-;(function ($) {
+;(function ($) { 
 
   //FlexSlider: Object Instance
   $.flexslider = function(el, options) {
