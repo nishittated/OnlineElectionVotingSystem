@@ -2,14 +2,12 @@
  *  Project name: Online Election Voting System
  * This project is licensed under the MIT License, see LICENSE.
  */
-
+ 
 ;(function($) {
     
     $.fn.wmuSlider = function(options) {
 
-        /* Default Options
-        ================================================== */       
-        var defaults = {
+         var defaults = {
             animation: 'fade',
             animationDuration: 600,
             slideshow: true,
