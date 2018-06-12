@@ -12,14 +12,14 @@
 <link href="css/forms.css" rel="stylesheet" type="text/css"> 
 </head>
 
-<body>
+<body onload="document.contact.email.focus()">
 <jsp:include page="header.jsp"></jsp:include>
 
 <pre>
 
 
 </pre>
-<form action="ContactServlet" method="post">
+<form action="ContactServlet" method="post" name="contact">
 
 <div style="float:left; width:50%;height:100%; margin-left:0px; margin-top:30px">
 <pre>
