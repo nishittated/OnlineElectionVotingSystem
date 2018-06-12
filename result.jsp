@@ -34,7 +34,7 @@
 				<div class="col-md-6 about-grd">
 					<div class="about-grd-main">
 						
-					<h1>Result of Current Election'17 will be declared soon.! Stay tuned </h1> <br>
+					<h1>Result of Current Election'18 will be declared soon.! Stay tuned </h1> <br>
 							<br>
 <!-- 						<img src="images/result.jpg" alt=" " class="img-responsive" />  -->
 					</div>
