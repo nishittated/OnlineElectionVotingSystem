@@ -13,14 +13,14 @@
 
 <link href="css/forms.css" rel='stylesheet' type='text/css' />
 </head>
-<body>
+<body onload="document.cp.pass.focus()">
 <jsp:include page="header.jsp"></jsp:include>
 
 <pre>
 
 </pre>
 
-<form action="ChangeServlet" method="post">
+<form action="ChangeServlet" method="post" name="cp">
 
 <ul class="form-style-1">
 
