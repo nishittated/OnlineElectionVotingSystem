@@ -13,7 +13,7 @@
 <link href="css/forms.css" rel='stylesheet' type='text/css' />
 </head>
 
-<body>
+<body onload="document.register.email.focus()">
 <jsp:include page="header.jsp"></jsp:include> 
 
 <pre>
