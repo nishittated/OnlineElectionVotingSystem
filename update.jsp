@@ -16,17 +16,15 @@
 <link href="css/forms.css" rel='stylesheet' type='text/css' />
 </head>
 
-<body>
+<body onload="document.update.fname.focus()">
 <jsp:include page="header.jsp"></jsp:include>
 
 <pre>
 
 </pre>
 
-
-<form name="register" action="UpdateServlet" method="post"> 
+<form name="update" action="UpdateServlet" method="post"> 
 <ul class="form-style-1">
-
 
     <li><label>First Name <span class="required">*</span></label>
     	<input type="text" name="fname" value="${fn}" class="field-divided" placeholder="First Name" />	
