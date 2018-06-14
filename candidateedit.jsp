@@ -13,7 +13,7 @@
 </head>
 <body>
 
-<jsp:include page="header_admin.jsp"></jsp:include>
+<jsp:include page="header_admin.jsp"></jsp:include> 
 <br><br><br><br><br><br>
 <form name="edit_candidate" action="UpdateCandidateServlet" method="post">
 <ul class="form-style-1">
