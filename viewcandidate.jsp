@@ -12,7 +12,7 @@
 <title>View Candidate</title>
 </head>
 
-<%
+<% 
 if(session.getAttribute("email")!=null)
 {
 	Model m = new Model();
