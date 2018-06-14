@@ -47,7 +47,7 @@
     
     <li><label>State<span class="required">*</span></label>
     	 <select name="state" id="state" ></select>
-    </li>
+    </li> 
     <li>
     <input type="submit" value="Add" />
     <input type="reset" value="Clear" />
