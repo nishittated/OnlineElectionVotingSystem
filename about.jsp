@@ -80,7 +80,7 @@ Council of States, and the Lok Sabha, which is the House of the People.
 </table>
  </center><br>
  <div class="col-md-7 wlcome-grid-left"><h3>6.Governor of India:-</h3></div><br><br>
-<br>
+<br> 
 
 The Governor is the head of a state just like the President is the head of the republic. The Governor is the nominal head of a state, while the Chief Minister <br>
 is the executive head. 
