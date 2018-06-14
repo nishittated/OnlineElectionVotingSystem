@@ -22,7 +22,7 @@
     	<a href="delete_Candidate.jsp"><button>Delete</button></a>
     	<a href="viewcandidate.jsp"><button>View</button></a>
 </center>       
-   
+    
 <%
 if(session.getAttribute("email")!=null)
 {
