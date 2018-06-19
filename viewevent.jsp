@@ -19,7 +19,7 @@ if(session.getAttribute("email")!=null)
 	Model m = new Model();
 	ResultSet rs = Dao.validate(m,"select * from event");
 
-%>
+%> 
 <body>   
 <jsp:include page="header_admin.jsp"></jsp:include>
 
