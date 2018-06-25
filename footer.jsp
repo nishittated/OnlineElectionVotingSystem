@@ -32,7 +32,7 @@
 				</div>
 				
 				<div class="clearfix"> </div>
-			</div>
+			</div> 
 			<div class="footer-copy">
 				<p>&copy 2018-19 Election. All rights reserved | Design by Tithi,Nishit,Niyati,Nisarg,Shrushti,Karan</p>
 			</div>
