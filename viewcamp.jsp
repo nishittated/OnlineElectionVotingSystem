@@ -22,7 +22,7 @@ if(session.getAttribute("email")!=null)
 
 %>
 <body>
-<jsp:include page="header_admin.jsp"></jsp:include>
+<jsp:include page="header_admin.jsp"></jsp:include> 
 
 <br><br><br><br><br><br>
 <center><a href="add_camp.jsp"><button>Add</button></a>
