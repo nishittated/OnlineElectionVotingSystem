@@ -22,7 +22,7 @@
     	<a href="Edit_UpcommingEvent.jsp"><button>Edit</button></a>
     	<a href="Delete_UpcommingEvent.jsp"><button>Delete</button></a>
     	<a href="viewevent.jsp"><button>View</button></a>
-    	</center>
+    	</center> 
 <%
 if(session.getAttribute("email")!=null)
 {
