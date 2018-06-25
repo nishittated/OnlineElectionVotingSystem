@@ -15,7 +15,7 @@
 <%
 try
 {
-	String ms = request.getParameter("msg");
+	String ms = request.getParameter("msg"); 
 	if (ms.equals("abc"))
 	{%>
 		alert("All fields are mandatory");
