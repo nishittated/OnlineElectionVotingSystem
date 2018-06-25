@@ -17,7 +17,7 @@
 <%
 String party = request.getParameter("party");
 Model m = new Model();
-int i = Dao.register(m, "delete from event where pn='"+party+"'");
+int i = Dao.register(m, "delete from event where pn='"+party+"'"); 
 
 if(i!=0)
 {
