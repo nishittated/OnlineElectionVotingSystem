@@ -14,7 +14,7 @@
 <body>
 <jsp:include page="header.jsp"></jsp:include>
 
-<pre>
+<pre> 
 </pre>
 <form action="ForgotServlet" method="post">
 <ul class="form-style-1">
