@@ -10,7 +10,7 @@
 <script type="text/javascript" src="js/country.js"></script>
 <link href="css/forms.css" rel='stylesheet' type='text/css' />
 <title>Edit Campaign</title>
-</head>
+</head> 
 <body>
 <jsp:include page="header_admin.jsp"></jsp:include>
 
