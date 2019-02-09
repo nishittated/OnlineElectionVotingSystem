@@ -23,6 +23,7 @@ address:<textarea rows="5" cols="10" name="add" placeholder="enter address" type
  
 <input type="submit" name="submit" value="submit">&nbsp;&nbsp;&nbsp;<input type="button" name="submit" value="reset">
 </form>
+    
 </body>
 </html>
 
