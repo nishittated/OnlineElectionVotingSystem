@@ -47,7 +47,6 @@ ga('create', 'UA-30027142-1', 'w3layouts.com');
           $('.adsense_info_content').css('display', 'block');
         }
       });
-
     });
 
   </script>
@@ -73,20 +72,16 @@ ga('create', 'UA-30027142-1', 'w3layouts.com');
 
 					<!-- Collect the nav links, forms, and other content for toggling -->
 					<div class="collapse navbar-collapse nav-wil" id="bs-example-navbar-collapse-1">
-						<ul class="nav navbar-nav">
-					
+						<ul class="nav navbar-nav">					
 							
 							<li ><a href="adminHome.jsp">Home</a></li>
 							<li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li>
 							<li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li>
 							<li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li>
-												<li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li> <li></li>
-								
-							
+												<li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li> <li></li>								
 							
 						</ul>
-					</div><!-- /.navbar-collapse -->	
-					
+					</div><!-- /.navbar-collapse -->						
 				</nav>
 			</div>
 		</div>
