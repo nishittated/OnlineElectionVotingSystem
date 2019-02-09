@@ -20,24 +20,20 @@
 <form name="editEvent"  action="UpdateEvent" method="post">
 <ul class="form-style-1">
 
-
     <li><label>Party Name <span class="required">*</span></label>
     	<input type="text" name="party" value="${party}" class="field-divided" placeholder="Party Name" />
-    	
     </li>
     
     <li><label>Event Name <span class="required">*</span></label>
-    	<input type="text" name="ename" value="${en}" class="field-divided" placeholder="Event Name" />
-    	
+    	<input type="text" name="ename" value="${en}" class="field-divided" placeholder="Event Name" />	
     </li>
     
     <li>
     	<input type="submit" value="Update" />
        <input type="reset" value="Clear" />
-       
     </li>
-
 </ul>
 </form>
+    
 </body>
 </html>
