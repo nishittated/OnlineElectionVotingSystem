@@ -31,7 +31,7 @@ public class OtpServlet extends HttpServlet {
 		String emailid = (String)session.getAttribute("email");
 		String password = (String)session.getAttribute("pass");
 		String page="";
-		//String link ="http://localhost:8080/OnlineElectionVotingSystem/resetpassword.jsp";
+		String link ="http://localhost:8080/OnlineElectionVotingSystem/resetpassword.jsp";
 		
 		if(otp.equals(otp1))
 		{
