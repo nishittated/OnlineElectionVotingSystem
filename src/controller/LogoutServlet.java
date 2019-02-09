@@ -23,7 +23,7 @@ public class LogoutServlet extends HttpServlet {
 		HttpSession session = request.getSession(true);
 		session.invalidate();
 		
-					// to expire cookie
+					// to expire a cookie
 		Cookie c = new Cookie("fname", "");
 		response.addCookie(c);
 		Cookie[] c1 = request.getCookies();
