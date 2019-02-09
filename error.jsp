@@ -7,7 +7,7 @@
 <head>
 <meta charset="ISO-8859-1">
 <title></title>
-</head> 
+</head>  
 <body>
 
 <script type="text/javascript">
@@ -60,8 +60,7 @@ try
 catch(Exception e)
 {
 	e.printStackTrace();
-}
-		
+}	
 %>
 </script>
 </body>
