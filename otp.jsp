@@ -17,8 +17,6 @@
 <br>
 <br>
 <br>
-<pre>
-</pre>
 
 <form action="OtpServlet" method="post">
 <ul class="form-style-1">
