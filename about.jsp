@@ -61,7 +61,7 @@ Council of States, and the Lok Sabha, which is the House of the People.
 <td>Type</td>
 <td>Upper House of the Parliament of India</td>
 </tr>
-<tr>
+<tr> 
 <td>Chairman</td>	<td>Shri Mohammad Hamid Ansari</td>
 </tr>
 <tr>
