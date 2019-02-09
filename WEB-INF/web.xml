@@ -8,7 +8,7 @@
 		<servlet-name>UpdateServlet</servlet-name>
 		<servlet-class>controller.UpdateServlet</servlet-class>
 	</servlet>
-	<servlet>
+	<servlet> 
 		<description>
 		</description>
 		<display-name>LoginServlet</display-name>
