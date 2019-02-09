@@ -29,7 +29,6 @@ if(session.getAttribute("email")!=null)
 {
 	Model m = new Model();
 	ResultSet rs = Dao.validate(m,"select * from campaign");
-
 %>
 
 <table border="2">
