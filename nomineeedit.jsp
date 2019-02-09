@@ -21,7 +21,6 @@
 
 <ul class="form-style-1">
 
-
     <li><label>Party Name <span class="required">*</span></label>
     	<input type="text" name="party" value="${party}" class="field-divided" placeholder="Party Name" />
     </li>
