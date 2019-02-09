@@ -60,7 +60,7 @@
         <input type="email" name="email" placeholder="Enter emailid" class="field-long" />
     </li>
     
-    <li>
+    <li> 
         <label>Address <span class="required">*</span></label>
         <textarea name="add" id="field5" placeholder="Enter address" class="field-long field-textarea"></textarea>
     </li>
