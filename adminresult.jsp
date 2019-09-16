@@ -1,6 +1,6 @@
 <!-- Copyright (c) Nishit Tated. All Rights Reserved.
  *  Project name: Online Election Voting System
- * This project is licensed under the MIT License, see LICENSE.
+ * This project is licensed under the MIT License, see LICENSE. 
  */ -->
 <%@page import="java.io.PrintWriter"%>
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
@@ -29,7 +29,7 @@ try
 {
 ArrayList<ArrayList> list = new ArrayList<ArrayList>(); 
 	ResultSet rs = d.validate1(sql);
-	while(rs.next())
+	while(rs.next()) 
 	{
 		String party = rs.getString(1);
 		String vote = rs.getString(7);
