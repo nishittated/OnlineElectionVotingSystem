@@ -129,7 +129,7 @@ import javax.mail.internet.MimeMessage;
 			msg.setFrom(new InternetAddress(from));
 		
 			InternetAddress [] address={new InternetAddress(to)};
-			msg.setRecipients(Message.RecipientType.TO,address);
+			msg.setRecipients(Message.RecipientType.TO,address); 
 			msg.setSubject(subject);
 			msg.setSentDate(new Date());
 			msg.setText(body);
