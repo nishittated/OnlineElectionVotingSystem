@@ -31,7 +31,7 @@ public class Dao {
 		PreparedStatement ps = con.prepareStatement(sql);
 		ResultSet rs = ps.executeQuery();
 		return rs;
-	}
+	} 
 	
 	public static int register1(String sql) throws SQLException {
 		PreparedStatement ps = con.prepareStatement(sql);
