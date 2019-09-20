@@ -17,8 +17,6 @@
 
 <script async src='../../../../pagead2.googlesyndication.com/pagead/js/f.txt'></script>
 
-
-
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
